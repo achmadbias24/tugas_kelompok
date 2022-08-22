@@ -41,7 +41,7 @@ header {
   background-color: rgba(34, 49, 52, 0.9);
   position: fixed;
   top: 0;
-  
+
   z-index: 10;
 }
 
@@ -64,13 +64,13 @@ header {
   line-height: 32.5px;
   padding: 0 25px;
   color: white;
-} 
+}
 
-.header-right a{
+.header-right a {
   color: white;
   padding: 0 20px;
   display: block;
-} 
+}
 
 .profil-wrapper {
   height: 500px;
@@ -94,7 +94,7 @@ header {
   width: 20%;
 }
 
-.profil img{
+.profil img {
   width: 200px;
   height: 200px;
   border-radius: 50%;
@@ -123,13 +123,13 @@ header {
   color: black;
 }
 
-.profil-anggota{
-  height:  1300px;
+.profil-anggota {
+  height: 1300px;
   text-align: center;
   border-bottom: 1px solid #eee;
 }
 
-.text-profil{
+.text-profil {
   text-align: left;
   font-size: 18px;
   font-style: normal;
@@ -140,4 +140,7 @@ footer p {
   color: #b3aeb5;
   font-size: 14px;
   text-align: left;
+}
+.text-profil p {
+  text-align: justify;
 }
